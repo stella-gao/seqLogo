@@ -6,3 +6,4 @@ This is a read-only mirror of the Bioconductor SVN repository. Package Homepage
 * https://cran.r-project.org/web/packages/RWebLogo/RWebLogo.pdf
 * http://biopython-cn.readthedocs.io/zh_CN/latest/en/chr14.html
 * http://biopython.org/DIST/docs/api/Bio.motifs.Motif-class.html
+* https://bioconductor.org/packages/devel/bioc/manuals/seqLogo/man/seqLogo.pdf
